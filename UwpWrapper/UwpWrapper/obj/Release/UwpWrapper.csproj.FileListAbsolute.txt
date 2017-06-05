@@ -1,0 +1,6 @@
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpWrapper\UwpWrapper\bin\Release\UwpWrapper.dll
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpWrapper\UwpWrapper\bin\Release\UwpWrapper.pdb
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpWrapper\UwpWrapper\bin\Release\Windows.winmd
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpWrapper\UwpWrapper\obj\Release\UwpWrapper.dll
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpWrapper\UwpWrapper\obj\Release\UwpWrapper.pdb
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpWrapper\UwpWrapper\bin\Release\UwpWrapper.tlb

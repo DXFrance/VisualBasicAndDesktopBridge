@@ -1,0 +1,17 @@
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpPackage\bin\Debug\win32\CentennialVB.exe
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpPackage\bin\Debug\ReverseMap\resources.pri
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpPackage\bin\Debug\AppxManifest.xml
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpPackage\bin\Debug\UwpPackage.build.appxrecipe
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpPackage\bld\Debug\ResourceHandlingTask.state
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpPackage\bld\Debug\priconfig.xml
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpPackage\bld\Debug\priconfig.xml.intermediate
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpPackage\bld\Debug\layout.resfiles
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpPackage\bld\Debug\layout.resfiles.intermediate
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpPackage\bld\Debug\resources.resfiles
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpPackage\bld\Debug\resources.resfiles.intermediate
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpPackage\bld\Debug\pri.resfiles
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpPackage\bld\Debug\pri.resfiles.intermediate
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpPackage\bld\Debug\qualifiers.txt
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpPackage\bld\Debug\qualifiers.txt.intermediate
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpPackage\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpPackage\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,6 @@
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpWrapper\UwpWrapper\bin\Debug\UwpWrapper.dll
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpWrapper\UwpWrapper\bin\Debug\UwpWrapper.pdb
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpWrapper\UwpWrapper\bin\Debug\UwpWrapper.tlb
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpWrapper\UwpWrapper\bin\Debug\Windows.winmd
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpWrapper\UwpWrapper\obj\Debug\UwpWrapper.dll
+C:\PROJECTS\CENTENNIAL\VBCentennial\UwpWrapper\UwpWrapper\obj\Debug\UwpWrapper.pdb

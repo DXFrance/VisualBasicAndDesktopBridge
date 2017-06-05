@@ -1,0 +1,102 @@
+Removed: HKEY_LOCAL_MACHINE\base_sw\Classes\WOW6432Node
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Wbem\CIMOM\ProcessID
+By Rule: Exact path match
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Wbem\CIMOM\ThrottleDrege
+By Rule: Exact path match
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Wbem\CIMOM\LastServiceStart
+By Rule: Exact path match
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Wbem\CIMOM
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Wbem\Transports
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Wbem
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows\CurrentVersion\NetworkServiceTriggers\Triggers\bc90d167-9470-4139-a9ba-be0bbbf5b74d\169C453B-5955-4672-BE44-21F61E9EF18F
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows\CurrentVersion\NetworkServiceTriggers\Triggers\bc90d167-9470-4139-a9ba-be0bbbf5b74d\2EB08E3E-639F-4fba-97B1-14F878961076
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows\CurrentVersion\NetworkServiceTriggers\Triggers\bc90d167-9470-4139-a9ba-be0bbbf5b74d\5c9a4cd7-ba75-45d2-9898-1773b3d1e5f1
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows\CurrentVersion\NetworkServiceTriggers\Triggers\bc90d167-9470-4139-a9ba-be0bbbf5b74d\64D1D045-F675-460B-8A94-570246B36DAB
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows\CurrentVersion\NetworkServiceTriggers\Triggers\bc90d167-9470-4139-a9ba-be0bbbf5b74d\8FB74744-B2FF-4C00-BE0D-9EF9A191FE1B
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows\CurrentVersion\NetworkServiceTriggers\Triggers\bc90d167-9470-4139-a9ba-be0bbbf5b74d\9B008953-F195-4BF9-BDE0-4471971E58ED
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows\CurrentVersion\NetworkServiceTriggers\Triggers\bc90d167-9470-4139-a9ba-be0bbbf5b74d\a500d4c6-0dd1-4543-bc0c-d5f93486eaf8
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows\CurrentVersion\NetworkServiceTriggers\Triggers\bc90d167-9470-4139-a9ba-be0bbbf5b74d\B18FBAB6-56F8-4702-84E0-41053293A869
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows\CurrentVersion\NetworkServiceTriggers\Triggers\bc90d167-9470-4139-a9ba-be0bbbf5b74d\b25a52bf-e5dd-4f4a-aea6-8ca7272a0e86
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows\CurrentVersion\NetworkServiceTriggers\Triggers\bc90d167-9470-4139-a9ba-be0bbbf5b74d\d09bdeb5-6171-4a34-bfe2-06fa82652568:b5ccd5ef-4238-440b-bba0-999f828f1cfe
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows\CurrentVersion\Reliability\shutdown\ReasonCode
+By Rule: Exact path match
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows\CurrentVersion\Reliability\shutdown
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows\CurrentVersion\Reliability\6005BT
+By Rule: Exact path match
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows\CurrentVersion\Setup\BootDir
+By Rule: Exact path match
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows\CurrentVersion\Setup
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows\CurrentVersion\ThemeManager\ServerChangeNumber
+By Rule: Exact path match
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows\CurrentVersion\ThemeManager
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows\Tablet PC\IsTabletPC
+By Rule: Exact path match
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows\Tablet PC\DeviceKind
+By Rule: Exact path match
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows\Tablet PC
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows NT\CurrentVersion\GRE_Initialize\DisableRemoteFontBootCache
+By Rule: Exact path match
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows NT\CurrentVersion\GRE_Initialize\ServicingStackModifiedFonts
+By Rule: Exact path match
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows NT\CurrentVersion\GRE_Initialize
+By Rule: No more chidren under node
+Rule Encountered: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows NT\CurrentVersion\ProfileList\*
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows NT\CurrentVersion\ProfileList\S-1-5-93-2-1
+By Rule: Recursively removed
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows NT\CurrentVersion\ProfileList
+By Rule: Recursively removed
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows NT\CurrentVersion\Winlogon\WinStationsDisabled
+By Rule: Exact path match
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows NT\CurrentVersion\Winlogon\ShutdownFlags
+By Rule: Exact path match
+Removed: HKEY_LOCAL_MACHINE\base_sw\Microsoft\Windows NT\CurrentVersion\Winlogon
+By Rule: No more chidren under node
+Rule Encountered: HKEY_LOCAL_MACHINE\base_sw\WOW6432Node\Microsoft\Cryptography\*
+Removed: HKEY_LOCAL_MACHINE\base_sw\WOW6432Node\Microsoft\Cryptography\Calais
+By Rule: Recursively removed
+Removed: HKEY_LOCAL_MACHINE\base_sw\WOW6432Node\Microsoft\Cryptography
+By Rule: Recursively removed
+Removed: HKEY_LOCAL_MACHINE\base_sw\WOW6432Node\Microsoft\CTF
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\WOW6432Node\Microsoft\Notepad
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\WOW6432Node\Microsoft\Software\Microsoft\Shared Tools
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\WOW6432Node\Microsoft\Software\Microsoft
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\WOW6432Node\Microsoft\Software
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\WOW6432Node\Microsoft\Windows\CurrentVersion\Control Panel\Cursors
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\WOW6432Node\Microsoft\Windows\CurrentVersion\Control Panel
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\WOW6432Node\Microsoft\Windows\CurrentVersion\Telephony
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\WOW6432Node\Microsoft\Windows\Tablet PC\IsTabletPC
+By Rule: Exact path match
+Removed: HKEY_LOCAL_MACHINE\base_sw\WOW6432Node\Microsoft\Windows\Tablet PC
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\WOW6432Node\Microsoft\Windows NT\CurrentVersion
+By Rule: No more chidren under node
+Removed: HKEY_LOCAL_MACHINE\base_sw\WOW6432Node\Microsoft\Windows NT
+By Rule: No more chidren under node
